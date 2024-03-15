@@ -6,7 +6,7 @@ This repository demonstrates a basic setup for integrating a Pokemon-related Pyt
 
 ## About the Project
 
-The project contains a Python script that simulates catching Pokémon using different types of Pokéballs and Pokémon levels. It also includes a CircleCI configuration file (`config.yml`) to automate testing and deployment processes.
+The project contains a Python script that simulates catching Pokemon using different types of Pokeballs and Pokemon levels. It also includes a CircleCI configuration file (`config.yml`) to automate testing and deployment processes.
 
 ================================
 
@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
    git clone <repository-url>
 2. Install the required dependencies:
   pip install -r requirements.txt
-3. Run the Python script to catch Pokémon:
+3. Run the Python script to catch Pokemon:
   python catch_pokemon.py
 
 ================================
