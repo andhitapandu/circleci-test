@@ -26,6 +26,11 @@ def TestCatchPokemon():
     # The catch rate would be 3 * 50 = 150%.
     # However, let's assume there's a cap of 100%.
     CatchPokemon(ball_type=3, pokemon_level=50)
+    
+    # Let's simulate catching a level 20 Snorlax with a Master Ball.
+    # The catch rate would be 6 * 20 = 120%.
+    # Since it's a Master Ball, it has a guaranteed catch rate.
+    CatchPokemon(ball_type=6, pokemon_level=20)
 
     print("CatchPokemon Function works correctly")
 
