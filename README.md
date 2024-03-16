@@ -10,21 +10,10 @@ The project contains a Python script that simulates catching Pokemon using diffe
 
 ================================
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone this repository to your local machine:
-   git clone <repository-url>
-2. Install the required dependencies:
-  pip install -r requirements.txt
-3. Run the Python script to catch Pokemon:
-  python catch_pokemon.py
-
-================================
+## Getting Started and only for my learning
 
 Continuous Integration with CircleCI
-This project is configured with CircleCI to automate testing every time a new commit is pushed to the repository. The config.yml file defines the workflow for testing the Python script.
+This project is configured with CircleCI to automate testing every time a new commit is pushed to the repository. 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
